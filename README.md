@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike
-- I’m interested in data science, algorithms, and front-end development
+- I am a full-stack developer looking to collaborate on web and mobile platforms!
 - I’m currently an undergraduate at the New Jersey Institute of Technology pursuing a bachelors in computer science 
-- I’m looking to collaborate on Anki addons 
+- Check out some of my latest work!
 
 <!---
 MNANDO/MNANDO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
